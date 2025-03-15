@@ -4,11 +4,11 @@
 
 ---
 
-![Amazon Checkout Page](checkoutpage.png)  
-
 ## A Frustrating Checkout Experience  
 
 Recently, I attempted to purchase a set of wireless earbuds from **Amazon**, a leading e-commerce platform known for its vast product selection and user-friendly interface. While the initial browsing and selection process was smooth, the **checkout process** presented unexpected challenges that hindered the overall user experience.  
+
+![Amazon Checkout Page](checkoutpage.png)  
 
 ### The Interaction  
 

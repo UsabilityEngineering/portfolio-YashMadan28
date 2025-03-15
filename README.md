@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[A tedious online shopping attempt](journa1.md)
+![A tedious online shopping attempt](journa1.md)

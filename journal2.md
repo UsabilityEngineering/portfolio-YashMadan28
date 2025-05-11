@@ -1,8 +1,4 @@
 ---
-title: A Tedious Attempt at Online Shopping
-author: Yash Madan
-layout: default
----
 
 # A Tedious Attempt at Online Shopping  
 **By Yash Madan | March 14, 2025**

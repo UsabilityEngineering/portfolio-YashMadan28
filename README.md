@@ -4,7 +4,7 @@ I am Yash Madan, an undergraduate senior majoring in computer science here at Ch
 
 ## UX Team Project
 
-Coming soon.
+[Our team project](https://github.com/ChicoState/gymbuddy-ux)
 
 ## UX Journal
 

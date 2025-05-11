@@ -1,4 +1,3 @@
----
 
 # A Tedious Attempt at Online Shopping  
 **By Yash Madan | March 14, 2025**
